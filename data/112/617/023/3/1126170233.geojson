@@ -1,0 +1,60 @@
+{
+  "id": 1126170233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"126.963694096,37.5275109802,126.963694096,37.5275109802",
+    "geom:latitude":37.527511,
+    "geom:longitude":126.963694,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Dragon Hill Spa"
+    ],
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85673185,
+        102191569,
+        85632231,
+        102026327,
+        890475295,
+        85926047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"KR",
+    "wof:created":1499109958,
+    "wof:geomhash":"48ec3af5462eb63b22d53674ae06c43c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475295,
+            "locality_id":102026327,
+            "neighbourhood_id":85926047,
+            "region_id":85673185,
+            "venue_id":1126170233
+        }
+    ],
+    "wof:id":1126170233,
+    "wof:lastmodified":1499109958,
+    "wof:name":"Dragon Hill Spa",
+    "wof:parent_id":85926047,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jjimjilbang"
+    ]
+},
+  "bbox": [
+    126.96369409561,
+    37.527510980167,
+    126.96369409561,
+    37.527510980167
+],
+  "geometry": {"coordinates":[126.96369409560999,37.527510980167],"type":"Point"}
+}
