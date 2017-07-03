@@ -1,0 +1,58 @@
+{
+  "id": 1126170249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"126.978285313,37.5665383169,126.978285313,37.5665383169",
+    "geom:latitude":37.566538,
+    "geom:longitude":126.978285,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Seoul City Hall"
+    ],
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85673185,
+        102191569,
+        85632231,
+        102026327,
+        890475295,
+        85926815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"KR",
+    "wof:created":1499122751,
+    "wof:geomhash":"5e681334939791ed7b32a60e89e0fc24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475295,
+            "locality_id":102026327,
+            "neighbourhood_id":85926815,
+            "region_id":85673185,
+            "venue_id":1126170249
+        }
+    ],
+    "wof:id":1126170249,
+    "wof:lastmodified":1499122751,
+    "wof:name":"Seoul City Hall",
+    "wof:parent_id":85926815,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.97828531265,
+    37.566538316908,
+    126.97828531265,
+    37.566538316908
+],
+  "geometry": {"coordinates":[126.97828531265,37.566538316908],"type":"Point"}
+}

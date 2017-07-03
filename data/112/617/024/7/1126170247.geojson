@@ -1,0 +1,58 @@
+{
+  "id": 1126170247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"126.977512836,37.5698888835,126.977512836,37.5698888835",
+    "geom:latitude":37.569889,
+    "geom:longitude":126.977513,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Ilmin Museum of Art"
+    ],
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85673185,
+        102191569,
+        85632231,
+        102026327,
+        890475295,
+        85926815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"KR",
+    "wof:created":1499122681,
+    "wof:geomhash":"40d6d905976ee5de1fe26ff8153fe28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475295,
+            "locality_id":102026327,
+            "neighbourhood_id":85926815,
+            "region_id":85673185,
+            "venue_id":1126170247
+        }
+    ],
+    "wof:id":1126170247,
+    "wof:lastmodified":1499122681,
+    "wof:name":"Ilmin Museum of Art",
+    "wof:parent_id":85926815,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.97751283646,
+    37.569888883467,
+    126.97751283646,
+    37.569888883467
+],
+  "geometry": {"coordinates":[126.97751283645999,37.569888883467],"type":"Point"}
+}
