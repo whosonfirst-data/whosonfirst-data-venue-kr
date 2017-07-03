@@ -1,0 +1,58 @@
+{
+  "id": 1126170259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"127.000110028,37.56794275,127.000110028,37.56794275",
+    "geom:latitude":37.567943,
+    "geom:longitude":127.00011,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Kwang Jang Market"
+    ],
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85673185,
+        102191569,
+        85632231,
+        102026327,
+        890475295,
+        85926837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"KR",
+    "wof:created":1499123698,
+    "wof:geomhash":"3f768b5834ff287ccfe26d3516e142ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475295,
+            "locality_id":102026327,
+            "neighbourhood_id":85926837,
+            "region_id":85673185,
+            "venue_id":1126170259
+        }
+    ],
+    "wof:id":1126170259,
+    "wof:lastmodified":1499123698,
+    "wof:name":"Kwang Jang Market",
+    "wof:parent_id":85926837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.00011002778,
+    37.56794275,
+    127.00011002778,
+    37.56794275
+],
+  "geometry": {"coordinates":[127.00011002778,37.56794275],"type":"Point"}
+}
