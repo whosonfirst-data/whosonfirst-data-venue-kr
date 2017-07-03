@@ -1,0 +1,64 @@
+{
+  "id": 1126170263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"126.998743639,37.56718,126.998743639,37.56718",
+    "geom:latitude":37.56718,
+    "geom:longitude":126.998744,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "MOTOELASTICO"
+    ],
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85673185,
+        102191569,
+        85632231,
+        102026327,
+        890475295,
+        85926039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"KR",
+    "wof:created":1499123878,
+    "wof:geomhash":"b701e48b3b6021cc94e4f2749a670a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475295,
+            "locality_id":102026327,
+            "neighbourhood_id":85926039,
+            "region_id":85673185,
+            "venue_id":1126170263
+        }
+    ],
+    "wof:id":1126170263,
+    "wof:lastmodified":1499123878,
+    "wof:name":"MOTOELASTICO",
+    "wof:parent_id":85926039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architecture",
+        "interior design",
+        "exhibition design",
+        "art",
+        "design"
+    ]
+},
+  "bbox": [
+    126.99874363889,
+    37.56718,
+    126.99874363889,
+    37.56718
+],
+  "geometry": {"coordinates":[126.99874363889001,37.56718],"type":"Point"}
+}
