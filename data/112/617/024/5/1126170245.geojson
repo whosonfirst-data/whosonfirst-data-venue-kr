@@ -1,0 +1,61 @@
+{
+  "id": 1126170245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"126.990323067,37.5734688908,126.990323067,37.5734688908",
+    "geom:latitude":37.573469,
+    "geom:longitude":126.990323,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Brew 3.14"
+    ],
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85673185,
+        102191569,
+        85632231,
+        102026327,
+        890475295,
+        85926833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"KR",
+    "wof:created":1499110800,
+    "wof:geomhash":"5cb80c52223b5786d40219027fac207c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475295,
+            "locality_id":102026327,
+            "neighbourhood_id":85926833,
+            "region_id":85673185,
+            "venue_id":1126170245
+        }
+    ],
+    "wof:id":1126170245,
+    "wof:lastmodified":1499110800,
+    "wof:name":"Brew 3.14",
+    "wof:parent_id":85926833,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza",
+        "beer"
+    ]
+},
+  "bbox": [
+    126.99032306671,
+    37.573468890812,
+    126.99032306671,
+    37.573468890812
+],
+  "geometry": {"coordinates":[126.99032306671,37.573468890812],"type":"Point"}
+}
