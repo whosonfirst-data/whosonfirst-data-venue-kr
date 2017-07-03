@@ -1,0 +1,61 @@
+{
+  "id": 1126170265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"126.983156204,37.5686643284,126.983156204,37.5686643284",
+    "geom:latitude":37.568664,
+    "geom:longitude":126.983156,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Wonhaeng Eulmyo Jeongni Eugwae Mural"
+    ],
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85673185,
+        102191569,
+        85632231,
+        102026327,
+        890475295,
+        85926833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"KR",
+    "wof:created":1499124106,
+    "wof:geomhash":"890e87c02fde5905688d3c0b3419b2fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475295,
+            "locality_id":102026327,
+            "neighbourhood_id":85926833,
+            "region_id":85673185,
+            "venue_id":1126170265
+        }
+    ],
+    "wof:id":1126170265,
+    "wof:lastmodified":1499124106,
+    "wof:name":"Wonhaeng Eulmyo Jeongni Eugwae Mural",
+    "wof:parent_id":85926833,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "history",
+        "public art"
+    ]
+},
+  "bbox": [
+    126.98315620422,
+    37.568664328394,
+    126.98315620422,
+    37.568664328394
+],
+  "geometry": {"coordinates":[126.98315620421999,37.568664328394],"type":"Point"}
+}
