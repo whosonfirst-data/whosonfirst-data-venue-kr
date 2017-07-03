@@ -1,0 +1,58 @@
+{
+  "id": 1126170235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"126.982072592,37.5871198096,126.982072592,37.5871198096",
+    "geom:latitude":37.58712,
+    "geom:longitude":126.982073,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Model Train Museum"
+    ],
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85673185,
+        102191569,
+        85632231,
+        102026327,
+        890475295,
+        85926833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"KR",
+    "wof:created":1499110333,
+    "wof:geomhash":"d8396768f836d73f5fed441d1256c037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475295,
+            "locality_id":102026327,
+            "neighbourhood_id":85926833,
+            "region_id":85673185,
+            "venue_id":1126170235
+        }
+    ],
+    "wof:id":1126170235,
+    "wof:lastmodified":1499110333,
+    "wof:name":"Model Train Museum",
+    "wof:parent_id":85926833,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.98207259178,
+    37.587119809581,
+    126.98207259178,
+    37.587119809581
+],
+  "geometry": {"coordinates":[126.98207259178,37.587119809581],"type":"Point"}
+}

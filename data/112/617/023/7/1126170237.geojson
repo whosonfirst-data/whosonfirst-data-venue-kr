@@ -1,0 +1,58 @@
+{
+  "id": 1126170237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"126.980280876,37.5788853443,126.980280876,37.5788853443",
+    "geom:latitude":37.578885,
+    "geom:longitude":126.980281,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "National Museum of Modern and Contemporary Art"
+    ],
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85673185,
+        102191569,
+        85632231,
+        102026327,
+        890475295,
+        85926833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"KR",
+    "wof:created":1499110415,
+    "wof:geomhash":"ac59acba97487b8b0244e415d670b1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475295,
+            "locality_id":102026327,
+            "neighbourhood_id":85926833,
+            "region_id":85673185,
+            "venue_id":1126170237
+        }
+    ],
+    "wof:id":1126170237,
+    "wof:lastmodified":1499110415,
+    "wof:name":"National Museum of Modern and Contemporary Art",
+    "wof:parent_id":85926833,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.98028087616,
+    37.578885344339,
+    126.98028087616,
+    37.578885344339
+],
+  "geometry": {"coordinates":[126.98028087615999,37.578885344339],"type":"Point"}
+}
