@@ -1,0 +1,58 @@
+{
+  "id": 1126170251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"126.975281239,37.5600238399,126.975281239,37.5600238399",
+    "geom:latitude":37.560024,
+    "geom:longitude":126.975281,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Sungnyemun Gate"
+    ],
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85673185,
+        102191569,
+        85632231,
+        102026327,
+        890475295,
+        85926845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"KR",
+    "wof:created":1499122944,
+    "wof:geomhash":"82a2a9ab3b259cd3cb913c4c0a903660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475295,
+            "locality_id":102026327,
+            "neighbourhood_id":85926845,
+            "region_id":85673185,
+            "venue_id":1126170251
+        }
+    ],
+    "wof:id":1126170251,
+    "wof:lastmodified":1499122944,
+    "wof:name":"Sungnyemun Gate",
+    "wof:parent_id":85926845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.97528123856,
+    37.560023839924,
+    126.97528123856,
+    37.560023839924
+],
+  "geometry": {"coordinates":[126.97528123856,37.560023839924],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1126170253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"126.976847649,37.5636000692,126.976847649,37.5636000692",
+    "geom:latitude":37.5636,
+    "geom:longitude":126.976848,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Seoul Metropolitan Council"
+    ],
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85673185,
+        102191569,
+        85632231,
+        102026327,
+        890475295,
+        85926815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"KR",
+    "wof:created":1499123016,
+    "wof:geomhash":"7f8dc8278bdc6d87f05867f6fcf7a523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475295,
+            "locality_id":102026327,
+            "neighbourhood_id":85926815,
+            "region_id":85673185,
+            "venue_id":1126170253
+        }
+    ],
+    "wof:id":1126170253,
+    "wof:lastmodified":1499123016,
+    "wof:name":"Seoul Metropolitan Council",
+    "wof:parent_id":85926815,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.97684764862,
+    37.563600069158,
+    126.97684764862,
+    37.563600069158
+],
+  "geometry": {"coordinates":[126.97684764861999,37.563600069158],"type":"Point"}
+}
