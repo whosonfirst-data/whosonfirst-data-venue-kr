@@ -1,0 +1,59 @@
+{
+  "id": 1158783295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"121.540066694,25.0610420833,121.540066694,25.0610420833",
+    "geom:latitude":25.061042,
+    "geom:longitude":121.540067,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Dimensionplus Lab"
+    ],
+    "wof:belongsto":[
+        85923073,
+        102191569,
+        85632403,
+        1108808545,
+        102026641,
+        85679583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"KR",
+    "wof:created":1500899537,
+    "wof:geomhash":"0670954445e68d7dc952bbfddea6d001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026641,
+            "macroregion_id":1108808545,
+            "neighbourhood_id":85923073,
+            "region_id":85679583,
+            "venue_id":1158783295
+        }
+    ],
+    "wof:id":1158783295,
+    "wof:lastmodified":1500899537,
+    "wof:name":"Dimensionplus Lab",
+    "wof:parent_id":85923073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hacker space"
+    ]
+},
+  "bbox": [
+    121.54006669444,
+    25.061042083333,
+    121.54006669444,
+    25.061042083333
+],
+  "geometry": {"coordinates":[121.54006669444,25.061042083333],"type":"Point"}
+}
