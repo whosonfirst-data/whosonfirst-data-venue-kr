@@ -1,0 +1,61 @@
+{
+  "id": 1158786431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"126.9688095,37.5554581944,126.9688095,37.5554581944",
+    "geom:latitude":37.555458,
+    "geom:longitude":126.96881,
+    "iso:country":"KR",
+    "mz:hierarchy_label":1,
+    "mz:hours":{},
+    "name:eng_x_preferred":[
+        "Yoonseoul"
+    ],
+    "wof:belongsto":[
+        85673185,
+        102191569,
+        85632231,
+        102026327,
+        890475295,
+        85926979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"KR",
+    "wof:created":1501492598,
+    "wof:geomhash":"c7e80350c55c525f6c50556e74708884",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632231,
+            "county_id":890475295,
+            "locality_id":102026327,
+            "neighbourhood_id":85926979,
+            "region_id":85673185,
+            "venue_id":1158786431
+        }
+    ],
+    "wof:id":1158786431,
+    "wof:lastmodified":1501492598,
+    "wof:name":"Yoonseoul",
+    "wof:parent_id":85926979,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-kr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public art",
+        "sculpture"
+    ]
+},
+  "bbox": [
+    126.9688095,
+    37.555458194444,
+    126.9688095,
+    37.555458194444
+],
+  "geometry": {"coordinates":[126.96880950000001,37.555458194444],"type":"Point"}
+}
