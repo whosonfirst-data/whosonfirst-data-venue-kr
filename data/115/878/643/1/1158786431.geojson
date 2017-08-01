@@ -2,18 +2,25 @@
   "id": 1158786431,
   "type": "Feature",
   "properties": {
+    "addr:website":"http://societyofarchitecture.com/soa/project/yoonsulmanridong-reflects-seoul/",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"126.9688095,37.5554581944,126.9688095,37.5554581944",
+    "geom:area":0,
+    "geom:bbox":"126.96881,37.555458,126.96881,37.555458",
     "geom:latitude":37.555458,
     "geom:longitude":126.96881,
     "iso:country":"KR",
+    "mz:categories":[],
     "mz:hierarchy_label":1,
-    "mz:hours":{},
+    "mz:hours":[],
+    "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Yoonseoul"
+        "Yoonseul: Manridong Reflecting Seoul"
     ],
+    "name:kor_x_preferred":[
+        "\uc724\uc2ac, \uc11c\uc6b8\uc744 \ube44\ucd94\ub294 \ub9cc\ub9ac\ub3d9"
+    ],
+    "src:geom":"mapzen",
     "wof:belongsto":[
         85673185,
         102191569,
@@ -26,7 +33,7 @@
     "wof:concordances":{},
     "wof:country":"KR",
     "wof:created":1501492598,
-    "wof:geomhash":"c7e80350c55c525f6c50556e74708884",
+    "wof:geomhash":"66c9992e561079c00029a95a0ceac50a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -39,8 +46,8 @@
         }
     ],
     "wof:id":1158786431,
-    "wof:lastmodified":1501492598,
-    "wof:name":"Yoonseoul",
+    "wof:lastmodified":1501549600,
+    "wof:name":"Yoonseul",
     "wof:parent_id":85926979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-kr",
@@ -48,7 +55,9 @@
     "wof:supersedes":[],
     "wof:tags":[
         "public art",
-        "sculpture"
+        "sculpture",
+        "public space",
+        "Society of Architects"
     ]
 },
   "bbox": [
@@ -57,5 +66,5 @@
     126.9688095,
     37.555458194444
 ],
-  "geometry": {"coordinates":[126.96880950000001,37.555458194444],"type":"Point"}
+  "geometry": {"coordinates":[126.96881,37.555458],"type":"Point"}
 }
